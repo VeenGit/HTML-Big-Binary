@@ -1,0 +1,9 @@
+html day 2
+
+1) <img src=" https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge
+.svg">
+2) <img src="broken-link.png" width="150px" alt="view from a balcony">
+
+3) <a href="https://bigbinaryacademy.com/">BigBinary Academy</a>
+
+4) <h1 id="statement">HTML is fun!</h1>

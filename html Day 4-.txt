@@ -1,0 +1,76 @@
+Day 4-
+
+<table>
+  <tr>
+    <td>Milk</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Carrots</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Apples</td>
+    <td>5</td>
+  </tr>
+</table>
+
+
+exercise 2-
+<table>
+  <tr>
+    <th>Sport</th>
+    <th>Equipment</th>
+  </tr>
+  <tr>
+    <td>Boxing</td>
+    <td>Gloves</td>
+  </tr>
+  <tr>
+    <td>Archery</td>
+    <td>Arrow</td>
+  </tr>
+</table>
+
+exericse-table title
+<table>
+  <caption>Furniture</caption>
+  <tr>
+    <th>Item</th>
+    <th>Quantity</th>
+  </tr>
+  <tr>
+    <td>Sofa</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Chairs</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Table</td>
+    <td>1</td>
+  </tr>
+</table>
+
+Exercise - Table Header
+<table>
+  <thead>
+  <tr>
+    <th>Medical Equipment</th>
+    <th>Quantity</th>
+  </tr>
+  </thead>
+  <tr>
+    <td>Masks</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>Thermometers</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Syringes</td>
+    <td>1000</td>
+  </tr>
+</table>
