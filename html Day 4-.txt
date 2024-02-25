@@ -74,3 +74,159 @@ Exercise - Table Header
     <td>1000</td>
   </tr>
 </table>
+
+Exercise- table Footer
+<table>
+  <tr>
+    <th>Medical Equipment</th>
+    <th>Quantity</th>
+  </tr>
+  <tr>
+    <td>Masks</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>Surgical Masks</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Thermometers</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Syringes</td>
+    <td>1000</td>
+  </tr>
+  <tr>
+    <td>Needles</td>
+    <td>3000</td>
+  </tr>
+  <tfoot>
+  <tr>
+    <td>Total Units</td>
+    <td>4312</td>
+  </tr>
+  </tfoot>
+</table>
+
+Exercise- Table Body
+<table>
+  <thead>
+    <tr>
+      <th>Medical Equipment</th>
+      <th>Quantity</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>Masks</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>Surgical Masks</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Thermometers</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Syringes</td>
+    <td>1000</td>
+  </tr>
+  <tr>
+    <td>Needles</td>
+    <td>3000</td>
+  </tr>
+  <tfoot>
+    <tr>
+      <th>Total Units</th>
+      <th>4312</th>
+    </tr>
+  </tfoot>
+</table>
+
+Html challenge- Table
+<div class="page">
+  <h1>Welcome to HTML Table Challenge</h1>
+  <table>
+    <caption>Fruit Cart</caption>
+    <thead>
+    <tr>
+      <th>Sr. No.</th>
+      <th>Fruit Name</th>
+      <th>Emoji</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>1</td>
+      <td class="fruit-name">Mango</td>
+      <td class="emoji">🥭</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td class="fruit-name">Kiwi Fruit</td>
+      <td class="emoji">🥝</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="fruit-name">Strawberry</td>
+      <td class="emoji">🍓</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td class="fruit-name">Grapes</td>
+      <td class="emoji">🍇</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td class="fruit-name">Cherries</td>
+      <td class="emoji">🍒</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td class="fruit-name">Apple</td>
+      <td class="emoji">🍎</td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+HTML Challenge - Tables, Headings and Images
+
+<div class="page">
+  <h1>Welcome to HTML Table, Headings and Images challenge</h1>
+  <ol>
+    <li>Mint Chocolate Chip</li>
+    <li>Love Potion #31</li>
+    <li>Oreo Cookies 'n' Cream</li>
+    <li>Very Berry Strawberry</li>
+    <li>Chocolate Chip Cookie Dough</li>
+  </ol>
+
+  <a href="https://www.google.com">Link to Google</a>
+  <img src="https://images.unsplas.com/photo-1672078857105-a1229a7033b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80" width = "300px" alt="a burger split in two">
+
+  <ol>
+  <li>Pizza</li>
+  <li>Sandwich</li>
+  <li>Burger</li>
+  </ol>
+  
+  <table>
+    <caption>Office Address</caption>
+      <thead>
+      <tr>
+        <th>Address Line 1</th>
+        <th>Address Line 2</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td>124</td>
+        <td>New Delhi</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
