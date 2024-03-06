@@ -1,0 +1,91 @@
+Lesson 8-Form Elements
+
+<form>
+  <!-- Write code below this line-->
+  <input type="text">
+  <input type="submit">
+</form>
+
+<form>
+  <!-- Write code below this line-->
+  <label>First Name</label>
+  <input>
+  <label>Last Name</label>
+  <input>
+</form>
+
+<form>
+  <label>First Name:</label>
+  <br>
+  <input placeholder="Eve">
+  <br>
+  <label>Last Name:</label>
+  <br>
+  <input placeholder="Smith">
+</form>
+
+<form>
+  <label>Company Details:</label>
+  <textarea rows=4 cols=30></textarea>
+</form>
+
+<form>
+  <label>Choose a Country:</label>
+  <!-- Write code here -->
+  <select>
+    <option value="Nepal">Nepal</option>
+    <option value="Bhutan">Bhutan</option>
+    <option value="Namibia">Namibia</option>
+  </select>
+</form>
+
+<form>
+  <label>Choose currency:</label>
+  <!-- Write code here -->
+  <select>
+    <option value="USD">United States Dollar</option>
+    <option value="EUR">Euro</option>
+    <option value="JPY">Japanese Yen</option>
+  </select>
+</form>
+
+<form>
+  <label>Apartment/Suite:</label>
+  <br>
+  <input placeholder="Office #803, World Trade Center, Tower 2"/>
+  <br>
+
+  <label>City:</label>
+  <br>
+  <input placeholder="Pune">
+  <br>
+
+  <label>Country:</label>
+  <br>
+  <input placeholder="India">
+  <br>
+
+  <!-- Write your code below -->
+  <button type="submit">Submit</button>
+</form>
+
+<form>
+  <label>Apartment/Suite:</label>
+  <br>
+  <input placeholder="Office #803, World Trade Center, Tower 2"/>
+  <br>
+
+  <label>City:</label>
+  <br>
+  <input placeholder="Pune"/>
+  <br>
+
+  <label>Country:</label>
+  <br>
+  <input placeholder="India"/>
+  <br>
+
+  <button type="submit">Submit</button>
+  <!-- Write your code below -->
+  <button type="reset">Reset</button>
+</form>
