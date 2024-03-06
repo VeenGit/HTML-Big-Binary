@@ -89,3 +89,37 @@ Lesson 8-Form Elements
   <!-- Write your code below -->
   <button type="reset">Reset</button>
 </form>
+
+<h1>Choose a Seat:</h1>
+<form>
+  <fieldset>
+  <select>
+    <option value="summer">First Class</option>
+    <option value="winter">Second Class</option>
+    <option value="rainy">Third Class</option>
+  </select>
+  </fieldset>
+</form>
+
+<form>
+  <label>First Name:</label>
+  <br>
+  <input placeholder="Sam" >
+  <br>
+<label>Last Name:</label>
+  <br>
+  <input placeholder="Smith" >
+  <br>
+<label>Gender:</label>
+  <br>
+  <input placeholder="Male" >
+  <br>
+  <fieldset>
+    <legend>Review Section</legend>
+  <label>Your Review:</label>
+  <br>
+  <input placeholder="Write a headline for your review here" >
+  <br>
+  </fieldset>
+  <input type="submit">
+</form>
