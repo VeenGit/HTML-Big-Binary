@@ -1,0 +1,166 @@
+Lesson 9 Input Types
+<form>
+  <label>Name:</label>
+  <input type="text" placeholder="Carlos Alberti">
+</form>
+
+<form>
+  <label>Password: </label>
+  <input type="password">
+</form>
+
+<form>
+  <label>Password:</label>
+  <input type="password" >
+  <input type="submit">
+</form>
+
+Challenge 1 - Input type submit
+<h2>Test 01</h2>
+<form>
+  <label>First Name</label>
+  <br>
+  <input type="text" placeholder="Sam">
+  <br>
+<label>Last Name</label>
+  <br>
+  <input type="text" placeholder="Smith">
+  <br>
+  <!-- Write code below -->
+  <input type="submit">
+</form>
+
+Challenge 2 - Button type submit
+<form>
+  <label>Favourite Superhero:</label>
+  <br>
+  <input type="text" placeholder="Enter hero's name">
+  <br>
+
+  <!-- Write code below -->
+  <button >
+    <img src="https://ucarecdn.com/8b4a9a74-3de8-46cb-b394-ad767f8b4d58/-/resize/150x100/">
+  </button>
+</form>
+<form>
+  <label>Favourite Superhero:</label>
+  <br>
+  <input type="text" placeholder="Enter hero's name">
+  <br>
+
+  <!-- Write code below -->
+  <button >
+    <img src="https://ucarecdn.com/8b4a9a74-3de8-46cb-b394-ad767f8b4d58/-/resize/150x100/">
+  </button>
+</form>
+
+<form>
+  <label>Favourite Superhero:</label>
+  <br>
+  <input type="text" placeholder="Enter hero's name">
+  <br>
+
+  <!-- Write code below -->
+  <button >
+    <img src="https://ucarecdn.com/8b4a9a74-3de8-46cb-b394-ad767f8b4d58/-/resize/150x100/">
+  </button>
+</form>
+
+Challenge - Input type - Reset
+<form>
+  <label>Name:</label>
+  <input type="text" placeholder="Eve Smith">
+  <br>
+  <input type="submit">
+  <input type="reset">
+</form>
+
+Challenge - Input type - Radio
+<form>
+  <label>What is your strength?</label>
+  <br>
+  <input type="radio" value="writing" name="skill">
+  <label>writing</label>
+  <input type="radio" value="reading" name="skill">
+  <label>reading</label>
+  <input type="radio" value="speaking" name="skill">
+  <label>speaking</label>
+</form>
+
+Challenge - Input type - Checkbox
+<form>
+  <label>Languages you know:</label>
+  <br>
+  <input type="checkbox" value="English">
+  <label>English</label>
+  <input type="checkbox" value="Mandarin">
+  <label>Mandarin</label>
+  <input type="checkbox" value="Spanish">
+  <label>Spanish</label>
+</form>
+
+Challenge - Input Type - Button
+<form>
+  <!-- Write code below this line -->
+  <input type="button" value="Clicker">
+</form>
+
+Challenge - Input Type - Email
+<form>
+  <label for="email">Enter your email address:</label>
+  <input type="email">
+  <button>Submit</button>
+</form>
+
+Challenge - Input Type - Date
+<form>
+<input type="date" min="2010-01-01" max="2020-12-31">  <!-- Write your code here -->
+  <br>
+  <button>Submit</button>
+</form>
+
+Challenge - Input Type - File
+<form>
+ <input type="file" accept="application/pdf" multiple> <!-- Write your code here -->
+  <button>Submit</button>
+</form>
+
+Challenge - Input Type - Tel
+<form>
+  <label>Contact number:</label>
+  <input type="tel" placeholder="+91 012 3456 789"><!-- Write your code here -->
+  <br>
+  <button>Submit</button>
+</form>
+
+Challenge - Input Type - Number
+<form>
+  <label for="ticket-number">Ticket Number:</label>
+  <input type="number" placeholder="0123456">
+  <br>
+  <button>Submit</button>
+</form>
+
+HTML Assessment - Form
+<!-- Write code below -->
+<h2>Identity</h2>
+<form>
+  <label for="username">Username:</label>
+  <input type="text" placeholder="username">
+  <label>Password:</label>
+  <input type="password" placeholder="password">
+  <label>Address:</label>
+  <textarea rows="4" cols="50" placeholder="address"></textarea>
+  <label>Favourite Ice Cream Flavour:</label>
+  <select>
+    <option value="Chocolate">Chocolate</option>
+    <option value="Vanilla">Vanilla</option>
+    <option value="Strawberry">Strawberry</option>
+    <option value="Pista">Pista</option>
+    <option value="Butterscotch">Butterscotch</option>
+  </select>
+  <label>Phone No.</label>
+  <input type="tel" placeholder="phone-no">
+  <button type="reset">Reset</button>
+  <button type="submit">Submit</button>
+</form>
